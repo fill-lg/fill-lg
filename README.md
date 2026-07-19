@@ -38,5 +38,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fill-lg&label=Просмотры+профиля&color=blueviolet&style=flat" alt="Счетчик просмотров" />
+  <img src="https://komarev.com/ghpvc/?username=fill-lg&label=Просмотры+профиля&color=blueviolet&style=flat" alt="   Счетчик просмотров   " />
 </p>
