@@ -31,12 +31,12 @@
 
 ### 📌 Последний проект
 
-[![Readme Card](https://github.com/fill-lg/strategy-game)
+[![Readme Card](https://github.com/fill-lg/strategy-game)]
 
 > Это моя первая игра-стратегия, написанная на C#. В ней реализованы размещение обьектов и их вращение, спавн юнитов, их перемещение с помощью AI и их атаки, а так же проработанный мир.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fill-lg&label=Просмотры+профиля&color=blueviolet&style=flat" alt="Счетчик просмотров" />
+  <img src="https://komarev.com/ghpvc/?username=fill-lg&label=Просмотры+профиля&color=blueviolet&style=flat" alt="Счетчик просмотров " />
 </p>
