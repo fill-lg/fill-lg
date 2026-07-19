@@ -1,9 +1,9 @@
-<h1 align="center">Привет! Меня зовут Вячеслав 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Начинающий+разработчик;Изучаю+C%23+и+Python;Создаю+игры+на+Unity&font=Fira%20Code&center=true&width=440&height=45&color=FF6B6B&vCenter=true&pause=1000&size=22">
+  <b>👋 Привет! Я Вячелав</b><br>
+  <i>🚀 Начинающий разработчик</i><br>
+  <i>💻 Изучаю C# и Unity </i><br>
+  <i>🎮 Так-же cоздаю игры на Unity</i>
 </p>
-
 ---
 
 ### 🧑‍💻 Обо мне
