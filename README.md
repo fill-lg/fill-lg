@@ -38,5 +38,5 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/fill-lg/count.svg" alt="Просмотры профиля" />
+  <img src="https://img.shields.io/badge/👀-Приветствую-9B59B6?style=for-the-badge&logo=github" alt="Приветствие" />
 </p>
