@@ -28,24 +28,10 @@
 
 ---
 
-### 📊 Моя статистика
-
-<table>
-<tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=fill-lg&show_icons=true&theme=radical" alt="Статистика GitHub" />
-  </td>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fill-lg&layout=compact&theme=radical" alt="Языки" />
-  </td>
-</tr>
-</table>
-
----
 
 ### 📌 Последний проект
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fill-lg&repo=strategy-game&theme=radical)](https://github.com/fill-lg/strategy-game)
+[![Readme Card](https://github.com/fill-lg/strategy-game)
 
 > Это моя первая игра-стратегия, написанная на C#. В ней реализованы размещение обьектов и их вращение, спавн юнитов, их перемещение с помощью AI и их атаки, а так же проработанный мир.
 
