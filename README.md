@@ -38,5 +38,5 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👀-Приветствую-9B59B6?style=for-the-badge&logo=github" alt="Приветствие" />
+  <img src="https://komarev.com/ghpvc/?username=fill-lg&label=Просмотры+профиля&color=blueviolet&style=flat" alt="Счетчик просмотров" />
 </p>
