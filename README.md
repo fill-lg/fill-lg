@@ -28,7 +28,7 @@
   *   **Technical Rigging**: Integrated **Humanoid Rig** retargeting to ensure animation compatibility across different character models.
   *   **Weapon Systems**: Developed a modular slot-based weapon system with ViewModels and procedural effects.
 
-  #### 🏰 [Strategy Game](https://github.com/fill-lg/strategy-game)
+  #### 🏰 [Strategy Game](https://github.com/fill-lg/strategy-game2.0)
   **Real-Time Strategy Prototype**
   *   **AI & Pathfinding**: Implemented unit movement and combat AI.
   *   **World Building**: Created a system for object placement, rotation, and spawning.
