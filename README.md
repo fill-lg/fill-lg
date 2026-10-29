@@ -1,46 +1,54 @@
 <p align="center">
-  <h1 align="center">Привет! Меня зовут Вячеслав 👋</h1>
-</p>
-<p align="center">
-  <i>🚀 Начинающий разработчик</i><br>
-  <i>💻 Изучаю C# и Unity </i><br>
-  <i>🎮 А так-же cоздаю игры на Unity</i>
-</p>
+    <h1 align="center">Hi! I'm Vyacheslav 👋</h1>
+  </p>
+  <p align="center">
+    <i style="font-size: 1.2em;">🚀 Gameplay Developer | Unity & C# Enthusiast</i><br>
+    <i style="font-size: 1.1em;">Focused on creating responsive movement and immersive combat mechanics</i>
+  </p>
 
+  ---
 
-### 🧑‍💻 Обо мне
+  ### 🧑‍💻 About Me
 
-Я увлеченный разработчик, который делает стремительны первые шаги в мире программирования. Мне интересно создавать что-то своими руками, особенно в игровой индустрии.
+  I am a dedicated Gameplay Developer specializing in creating dynamic and polished player experiences. My main focus is on the intersection of physics and animation, ensuring that every movement feels "snappy" and intuitive to the player.
 
-*   🌱 Сейчас я углубленно изучаю **C#** и **игровые движки**.
-*   🚀 Мой текущий проект — [стратегия](https://github.com/fill-lg/strategy-game2.0) на C#.
-*   🎯 Цель на этот год: опубликовать свою первую игру и найти работу.
-*   📫 Как со мной связаться: filladmirow@gmail.com
+  *   🎯 **Specialization**: FPS Movement, Combat Systems, and Animation State Machines.
+  *   🌱 **Current Focus**: Deepening knowledge in advanced C# architecture and game physics.
+  *   🚀 **Goal**: Building a high-quality portfolio of technical demos to contribute to a professional game development team.
+  *   📫 **Contact**: [filladmirow@gmail.com](mailto:filladmirow@gmail.com)
 
----
+  ---
 
-### 🛠️ Мои инструменты и технологии
+  ### 🌟 Featured Projects
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
+  #### 🎯 [Aim_Ego Demo](https://github.com/fill-lg/Aim_Ego_Demo)
+  **High-Fidelity FPS Controller**
+  *   **Movement Physics**: Implemented Source-style movement, including authentic **Air Strafing** and **Counter-Strafing** for a competitive feel.
+  *   **Animation System**: Built a complex Animator Controller using **Blend Trees** for seamless transitions between Idle, Walk, and Run.
+  *   **Technical Rigging**: Integrated **Humanoid Rig** retargeting to ensure animation compatibility across different character models.
+  *   **Weapon Systems**: Developed a modular slot-based weapon system with ViewModels and procedural effects.
 
----
+  #### 🏰 [Strategy Game](https://github.com/fill-lg/strategy-game)
+  **Real-Time Strategy Prototype**
+  *   **AI & Pathfinding**: Implemented unit movement and combat AI.
+  *   **World Building**: Created a system for object placement, rotation, and spawning.
+  *   **Game Logic**: Developed core combat mechanics and unit interaction systems.
 
+  ---
 
-### 📌 Последний проект
+  ### 🛠️ Tech Stack
 
-(https://github.com/fill-lg/strategy-game)
+  <p align="left">
+    <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  </p>
 
-> Это одня из первых моих игр. Игра-стратегия, написанная на C#. В ней реализованы размещение обьектов и их вращение, спавн юнитов, их перемещение с помощью AI и их атаки, а так же проработанный мир.
+  ---
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fill-lg&label=Просмотры+профиля&color=blueviolet&style=flat" alt="Счетчик просмотров" />
-</p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=fill-lg&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
+  </p>
