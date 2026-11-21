@@ -28,7 +28,7 @@
   *   **Technical Rigging**: Integrated **Humanoid Rig** retargeting to ensure animation compatibility across different character models.
   *   **Weapon Systems**: Developed a modular slot-based weapon system with ViewModels and procedural effects.
 
-  #### 🤖 [AI GameDev Assistant](github.com/fill-lg/ai-gamedev-assistant)
+  #### 🤖 [AI GameDev Assistant](https://github.com/fill-lg/ai-gamedev-assistant)
   **An engineering pet project for exploring Unity documentation and C# code through an AI agent. The project combines MCP tools, local retrieval, modular architecture, and reproducible quality evaluation.**
   *   **MCP Server**: Built a stdio server with four read-only tools: documentation search, code search, file reading, and Unity project overview.
   *   **RAG & Citations**: Implemented local BM25 retrieval over Markdown documents with section-based chunking and source citations, including exact line numbers.
