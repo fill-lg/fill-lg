@@ -28,6 +28,15 @@
   *   **Technical Rigging**: Integrated **Humanoid Rig** retargeting to ensure animation compatibility across different character models.
   *   **Weapon Systems**: Developed a modular slot-based weapon system with ViewModels and procedural effects.
 
+  #### 🤖 [AI GameDev Assistant](github.com/fill-lg/ai-gamedev-assistant)
+  **An engineering pet project for exploring Unity documentation and C# code through an AI agent. The project combines MCP tools, local retrieval, modular architecture, and reproducible quality evaluation.**
+  *   **MCP Server**: Built a stdio server with four read-only tools: documentation search, code search, file reading, and Unity project overview.
+  *   **RAG & Citations**: Implemented local BM25 retrieval over Markdown documents with section-based chunking and source citations, including exact line numbers.
+  *   **Agent Architecture**: Designed a provider-neutral tool-use loop with tool error handling, step limits, and call tracing. Added optional Anthropic and OpenAI adapters.
+  *   **Quality & Cost Evaluation**: Implemented source hit rate, keyword recall, latency, token usage tracking, and cost calculation using configurable model pricing.
+  *   **Real Unity Integration**: Documented the actual Aim_Ego architecture and tested the assistant against it — **11/11 evaluation scenarios passed.**
+  *   **Reliability & Security**: Added **20 unit and integration tests**, covering MCP connectivity, the agent loop, and path traversal protection. All project tools are read-only, with no shell execution.
+
   #### 🏰 [Strategy Game](https://github.com/fill-lg/strategy-game2.0)
   **Real-Time Strategy Prototype**
   *   **AI & Pathfinding**: Implemented unit movement and combat AI.
